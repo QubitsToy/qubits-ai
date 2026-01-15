@@ -1,0 +1,7 @@
+{
+  "name": "Qubits AI Scene Creator",
+  "description": "Create amazing scenes featuring the Qubits Building Toy. Upload your photo to see yourself building with Qubits in any setting imaginable!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
